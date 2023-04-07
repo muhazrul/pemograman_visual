@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.exe.config
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.exe
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.pdb
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.xml
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.exe
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.xml
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.pdb
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.exe.config
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.exe
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.xml
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.pdb
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.exe
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.pdb
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.xml
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.Form1.resources
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.Resources.resources
+C:\Users\ASUS\Downloads\Latihan4\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.vbproj.GenerateResource.Cache
